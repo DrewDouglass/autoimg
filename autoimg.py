@@ -1,7 +1,6 @@
 import easygui
 import urllib.request
 import os
-import time
 
 number_of_images = easygui.integerbox("How many images?")
 image_width = easygui.integerbox("Width of the image?", "", "", 0, 5000)
