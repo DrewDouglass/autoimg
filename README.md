@@ -3,7 +3,7 @@ Bulk download images from unsplash.it to use as placeholders.
 
 # Requirements
 * Python 3
-* EasyGUI Python Module. 
+* [EasyGUI Python Module](http://easygui.sourceforge.net/). 
 
 # Usage
 * Download autoimg.py :floppy_disk:
